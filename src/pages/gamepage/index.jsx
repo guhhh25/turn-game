@@ -23,10 +23,15 @@ export default function gamePage(){
 
     return(
         <div className={styles.container}>
+
         {userClass === 'WARRIOR' ? <UserCardWarrior name={userName}/> : ''}
         {userClass === 'ROGUE' ? <UserCardRogue name={userName}/> : ''}
         {userClass === 'MAGE' ? <UserCardMage name={userName}/> : ''}
             
+
+        <div className={styles.userMenu}>
+            eae 
+        </div>
         </div>
     )
 }

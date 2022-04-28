@@ -17,7 +17,7 @@ export default function UserCardWarrior(props) {
                 
                 </div>
                 <div className={styles.status}>
-                    'dados da class aqui!'
+                    
                 </div>
             </div>
             </div>

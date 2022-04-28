@@ -21,7 +21,7 @@ export default function UserCardRogue(props) {
             </div>
             </div>
 
-            <div className='userLvl'>Lvl:</div>
+            
         </div>
     )
 }

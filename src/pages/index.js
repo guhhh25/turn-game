@@ -23,8 +23,8 @@ export default function Home(props) {
     },[])
 
   return (
-    <div className={styles.container}>
-     
+    <div>
+      
     </div>
   )
 }
